@@ -1,0 +1,10 @@
+data/sample_submission.csv
+catboost_info/time_left.tsv
+catboost_info/learn/events.out.tfevents
+.ipynb_checkpoints/AutoML따라하기-checkpoint.ipynb
+data/test_x.csv
+data/open data.zip
+logs.log
+catboost_info/catboost_training.json
+catboost_info/learn_error.tsv
+data/train.csv
